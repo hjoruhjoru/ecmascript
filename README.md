@@ -1,1 +1,2 @@
 # ecmascript
+object oriented design
