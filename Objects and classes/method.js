@@ -20,7 +20,6 @@ var People = function (name, gender) {
   }
 }
 
-
 var Tom = new People('Tom', 'male');
 console.log(Tom.isMale()); //true
 console.log(Tom.title); //Mr.
