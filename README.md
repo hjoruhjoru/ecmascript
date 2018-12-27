@@ -6,3 +6,4 @@ object oriented design
   * [method](Objects%20and%20classes/method.js)
 * Inheritance
   * [inherit property and method from parend](Inheritance/inheritance.js)
+  * [overridde method](Inheritance/overridde.js)
