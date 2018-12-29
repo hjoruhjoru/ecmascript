@@ -1,7 +1,7 @@
 # ecmascript
 object oriented design
 
-* Objects and classes
+* Class
   * [class](Objects%20and%20classes/class.js)
   * [method](Objects%20and%20classes/method.js)
 * Inheritance
